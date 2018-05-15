@@ -1,0 +1,19 @@
+svg {
+  margin: 0 auto;
+  display: block;
+  background-color: #230245;
+}
+
+.tooltip{
+	position: absolute;
+	opacity: 0;
+	pointer-events: none;
+	background-color: lightblue;
+	border: 8px solid blue;
+	border-radius: 8px;
+	padding: 15px;
+}
+
+.tooltip p{
+	margin: 0;
+}
